@@ -20,4 +20,4 @@ function binarySearch(arr, num) {
 }
 
 let arr = [1,3,5,7,10,15,19,20];
-console.log(binarySearch(arr, 3));
+console.log(binarySearch(arr, 16));
